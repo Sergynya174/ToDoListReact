@@ -7,7 +7,7 @@
 
 ### Внешнего вида приложения:
 
-![alt text](https://github.com/Sergynya174/weater-react/blob/main/img.png?raw=true)
+![alt text](https://github.com/Sergynya174/ToDoListReact/blob/main/img.png?raw=true)
 
 ### Технологии:
 
